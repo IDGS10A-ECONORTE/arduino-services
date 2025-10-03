@@ -1,1 +1,3 @@
 /arduino-econorte
+*.pyc
+/venv
