@@ -40,7 +40,7 @@ El prototipo se conecta con un **servidor Flask** que recibe las peticiones HTTP
 
 ## 🖼️ Diagrama de Conexión
 
-<img src="https://i.ibb.co/7d24dbS2/Esquema-de-conexion.jpg" alt="Diagrama del prototipo" width="400" height="300">
+<img src="https://i.ibb.co/7d24dbS2/Esquema-de-conexion.jpg" alt="Diagrama del prototipo" width="500">
 
 
 ---
