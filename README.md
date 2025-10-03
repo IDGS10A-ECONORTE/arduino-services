@@ -40,7 +40,8 @@ El prototipo se conecta con un **servidor Flask** que recibe las peticiones HTTP
 
 ## 🖼️ Diagrama de Conexión
 
-_(Aquí se insertará el diagrama del prototipo con las conexiones de los sensores, módulo GSM y servidor)_
+<img src="[ruta/imagen.png](https://i.ibb.co/7d24dbS2/Esquema-de-conexion.jpg)" alt="Diagrama del prototipo" width="400" height="300">
+
 
 ---
 
