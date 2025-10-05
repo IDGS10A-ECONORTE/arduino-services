@@ -1,3 +1,4 @@
 /arduino-econorte
 *.pyc
 /venv
+.env-example
