@@ -13,7 +13,8 @@ Estos datos son procesados localmente y enviados mediante el módulo **SIM800L G
 
 ## 🛠️ Componentes del Prototipo
 
-- **Arduino Uno / Nano** (microcontrolador principal)  
+- **Arduino Uno / Nano** (microcontrolador principal)
+- **Módulo DTH11** (Temperatura y Humedad)
 - **Módulo SIM800L GSM/GPRS** (conectividad móvil y envío de datos)  
 - **Sensor MQ-135** (detección de gases y calidad del aire → detección de incendios)  
 - **Sensor SW-420** (detección de vibraciones → detección de sismos)  
@@ -41,7 +42,7 @@ El prototipo se conecta con un **servidor Flask** que recibe las peticiones HTTP
 ## 🖼️ Diagrama de Conexión
 
 <img src="https://i.ibb.co/7d24dbS2/Esquema-de-conexion.jpg" alt="Diagrama del prototipo" width="500">
-
+- Modulo DTH11 faltante en el diagrama, asignar un puerto digital libre
 
 ---
 
