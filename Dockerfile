@@ -1,4 +1,4 @@
-from python:3.14.0rc3-alpine3.22
+FROM python:3.14.0rc3-alpine3.22
 WORKDIR /flask
 COPY "requirements.txt" .
 RUN pip install -r "requirements.txt"
